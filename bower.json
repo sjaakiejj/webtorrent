@@ -1,0 +1,13 @@
+{
+  "name": "webtorrent",
+  "version": "1.0.0",
+  "main": "webtorrent.min.js",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
